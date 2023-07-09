@@ -44,7 +44,7 @@ nav .nav-ul li a{
     letter-spacing: 1px;
 }
 
-@media screen and (max-width: 1808px){
+@media screen and (max-width: 808px){
     .nav{
         padding-top:0px;
     }
@@ -194,7 +194,7 @@ nav .nav-ul li a{
     border:1px solid white;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
        
     .img1-image{
         background: url('../img/img1.jpg');
