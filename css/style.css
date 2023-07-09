@@ -192,7 +192,8 @@ nav .nav-ul li a{
 .bttn button:hover{
     color:gray;
     border:1px solid white;
-.footer {  
+}
+.footer{  
     text-align: center;
     justify-content: center;
     font-size: 50px !important;
@@ -202,7 +203,7 @@ nav .nav-ul li a{
     position: relative;
     transform: translate(-50%, -50%);
     transform: scaleY(1.4);
-}
+
 }
 
 @media screen and (max-width: 300px) {
