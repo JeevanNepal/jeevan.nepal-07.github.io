@@ -196,14 +196,21 @@ nav .nav-ul li a{
 
 @media screen and (max-width: 600px) {
        
-    .img1-image{
+    .img1-image {
         background: url('../img/img1.jpg');
         background-repeat: no-repeat;
         background-size: cover;
-        background-position:70%;
+        background-position: 70%;
         height: 100%;
-       
-        
-    }
+       }
 }
+footer {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin:290px;
+    font-size:small;
+    
+   
+
+  }
 
