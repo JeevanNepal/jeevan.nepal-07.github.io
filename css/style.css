@@ -44,7 +44,7 @@ nav .nav-ul li a{
     letter-spacing: 1px;
 }
 
-@media screen and (max-width: 808px){
+@media screen and (max-width: 1808px){
     .nav{
         padding-top:0px;
     }
