@@ -46,7 +46,7 @@ nav .nav-ul li a{
 
 @media screen and (max-width: 808px){
     .nav{
-        padding-top:60px;
+        padding-top:0px;
     }
     .container{
         margin-top:35%;
