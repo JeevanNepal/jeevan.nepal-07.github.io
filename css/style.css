@@ -148,12 +148,12 @@ nav .nav-ul li a{
     transform: scaleY(1.4);
 }
 .black{
-    color:rgb(131, 221, 224) ;
+    color:rgb(10, 255, 255) ;
     font-size: 100px;
 }
 .outlined{
     opacity: 0.8;
-    -webkit-text-stroke:2px rgb(96, 240, 240);
+    -webkit-text-stroke:2px rgb(0, 238, 255);
     color: transparent;
     font-size: 100px;
 }
